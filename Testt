@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>pino beban</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>domain : {-4,-3,-2,-1,0}</h1>
+    <h1 class="1">kodomain : {0,1,2,3,4}</h1>
+    <h1 class="2">range :{2,4,6,8,10}</h1>
+    <h2>range</h2>
+    <h2 class="1">jika x=-4f (-4)2-2(-4)=2+8=10</h2>
+    <h2 class="2">jika x=-3f (-3)2-2(-3)=2+6=8</h2>
+    <h2 class="3">jika x=-2f (-2)2-2(-2)=2+4=6</h2>
+    <h2 class="4">jika x=-1f (-1)2-2(-1)=2+2=4</h2>
+    <h2 class="5">jika x=0 maka f = 2-2(0)=2</h2>
+    <script src="script.js"></script>
+  </body>
+</html>
